@@ -1,0 +1,271 @@
+[
+  {
+    "name":"Diona",
+    "address":"Uly Dala 26",
+    "delivery_charge": 5,
+    "image":"https://avatars.mds.yandex.net/get-altay/4447467/2a0000017a66a0425a3415ac73e2abe80c9f/S",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Fairy",
+        "price": 880,
+        "url": "https://images.satu.kz/111517596_w640_h640_sredstvo-dlya-mytya.jpg"
+      },
+      {
+        "name": "Persil",
+        "price": 5600,
+        "url": "https://object.pscloud.io/cms/cms/Photo/img_0_439_224_7_1.jpg"
+      },
+      {
+        "name": "Amway Toothpaste",
+        "price": 3150,
+        "url": "https://www.kz.amway.com/common/medias/EIA.w600.h600.1959-2-15.02.21.jpg?context=bWFzdGVyfHJvb3R8MTY1OTF8aW1hZ2UvanBlZ3xoNGYvaDcyLzk1MjI3MzY3OTE1ODIuanBnfGVmNGU3MTU0MGM3NmIyZWI0NmY2ZTQ2MWNjYWU2NGI5NmMwYzAyZmJhNzFhZjU0NmI2NTBjZDkxMmJlYzNkNGU&ccv=S0FaLU8="
+      },
+      {
+        "name": "Azelit",
+        "price": 1750,
+        "url": "https://grass-magaz.kz/wp-content/uploads/2020/05/218600-Azelit-600-ml-%D0%BB%D0%B8%D1%86%D0%BE-300x400.jpg"
+      },
+      {
+        "name": "Greenway",
+        "price": 3200,
+        "url": "https://avatars.mds.yandex.net/get-mpic/6982353/img_id5463881064721969001.png/600x800"
+      },
+      {
+        "name": "Vanish",
+        "price": 2800,
+        "url": "https://www.vanish.ru/static/f2851475bb527deee0643d53423a9ec9/55b0b/3181860_rb-vanish-aquaman-doypack-3d_pink_front_500g.png"
+      },
+      {
+        "name": "Comet",
+        "price": 530,
+        "url": "https://images.satu.kz/168840627_w640_h640_chistyaschee-sredstvo-comet.jpg"
+      },
+      {
+        "name": "York",
+        "price": 5500,
+        "url": "https://static.insales-cdn.com/images/products/1/1613/607397453/York_%D1%88%D0%B2%D0%B0%D0%B1%D1%80%D0%B0_%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BF_%D0%A1%D0%B0%D0%BB%D1%8C%D1%81%D0%B0.jpg"
+      },
+      {
+        "name": "Familia",
+        "price": 1250,
+        "url": "https://images.satu.kz/176161997_tualetnaya-bumaga-familia.jpg"
+      },
+      {
+        "name": "Head&Shoulders",
+        "price": 3250,
+        "url": "https://images.ctfassets.net/3glj7scbhnae/72OYBLuYGV0qwV3bWc3eb6/2a47ee2c7a7539d04e2b3aa73de21f37/HS_PH_Menthol_Large.jpeg"
+      }
+    ]},
+  {
+    "name":"BytoManya",
+    "address":"E-753, 2",
+    "delivery_charge": 4,
+    "image":"https://i.pinimg.com/474x/af/09/41/af0941ba06185e9846af909ba9350baf--letter-b-logo-b-logo-design.jpg",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 1:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Fairy",
+        "price": 880,
+        "url": "https://images.satu.kz/111517596_w640_h640_sredstvo-dlya-mytya.jpg"
+      },
+      {
+        "name": "Persil",
+        "price": 5600,
+        "url": "https://object.pscloud.io/cms/cms/Photo/img_0_439_224_7_1.jpg"
+      },
+      {
+        "name": "Amway Toothpaste",
+        "price": 3150,
+        "url": "https://www.kz.amway.com/common/medias/EIA.w600.h600.1959-2-15.02.21.jpg?context=bWFzdGVyfHJvb3R8MTY1OTF8aW1hZ2UvanBlZ3xoNGYvaDcyLzk1MjI3MzY3OTE1ODIuanBnfGVmNGU3MTU0MGM3NmIyZWI0NmY2ZTQ2MWNjYWU2NGI5NmMwYzAyZmJhNzFhZjU0NmI2NTBjZDkxMmJlYzNkNGU&ccv=S0FaLU8="
+      },
+      {
+        "name": "Azelit",
+        "price": 1750,
+        "url": "https://grass-magaz.kz/wp-content/uploads/2020/05/218600-Azelit-600-ml-%D0%BB%D0%B8%D1%86%D0%BE-300x400.jpg"
+      },
+      {
+        "name": "Greenway",
+        "price": 3200,
+        "url": "https://avatars.mds.yandex.net/get-mpic/6982353/img_id5463881064721969001.png/600x800"
+      },
+      {
+        "name": "Vanish",
+        "price": 2500,
+        "url": "https://www.vanish.ru/static/f2851475bb527deee0643d53423a9ec9/55b0b/3181860_rb-vanish-aquaman-doypack-3d_pink_front_500g.png"
+      },
+      {
+        "name": "Comet",
+        "price": 530,
+        "url": "https://images.satu.kz/168840627_w640_h640_chistyaschee-sredstvo-comet.jpg"
+      },
+      {
+        "name": "York",
+        "price": 5500,
+        "url": "https://static.insales-cdn.com/images/products/1/1613/607397453/York_%D1%88%D0%B2%D0%B0%D0%B1%D1%80%D0%B0_%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BF_%D0%A1%D0%B0%D0%BB%D1%8C%D1%81%D0%B0.jpg"
+      },
+      {
+        "name": "Familia",
+        "price": 1250,
+        "url": "https://images.satu.kz/176161997_tualetnaya-bumaga-familia.jpg"
+      },
+      {
+        "name": "Head&Shoulders",
+        "price": 3000,
+        "url": "https://images.ctfassets.net/3glj7scbhnae/72OYBLuYGV0qwV3bWc3eb6/2a47ee2c7a7539d04e2b3aa73de21f37/HS_PH_Menthol_Large.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "Aromika",
+    "address": "Syganak 5",
+    "delivery_charge": 3,
+    "image": "https://aromika.com.ua/wp-content/uploads/2019/12/Aromika-logo-retail-retina.png",
+    "hours": {
+      "Sunday": "11:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM",
+      "Saturday": "9:00 AM - 6:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Fairy",
+        "price": 880,
+        "url": "https://images.satu.kz/111517596_w640_h640_sredstvo-dlya-mytya.jpg"
+      },
+      {
+        "name": "Persil",
+        "price": 5600,
+        "url": "https://object.pscloud.io/cms/cms/Photo/img_0_439_224_7_1.jpg"
+      },
+      {
+        "name": "Amway Toothpaste",
+        "price": 3150,
+        "url": "https://www.kz.amway.com/common/medias/EIA.w600.h600.1959-2-15.02.21.jpg?context=bWFzdGVyfHJvb3R8MTY1OTF8aW1hZ2UvanBlZ3xoNGYvaDcyLzk1MjI3MzY3OTE1ODIuanBnfGVmNGU3MTU0MGM3NmIyZWI0NmY2ZTQ2MWNjYWU2NGI5NmMwYzAyZmJhNzFhZjU0NmI2NTBjZDkxMmJlYzNkNGU&ccv=S0FaLU8="
+      },
+      {
+        "name": "Azelit",
+        "price": 1750,
+        "url": "https://grass-magaz.kz/wp-content/uploads/2020/05/218600-Azelit-600-ml-%D0%BB%D0%B8%D1%86%D0%BE-300x400.jpg"
+      },
+      {
+        "name": "Greenway",
+        "price": 3200,
+        "url": "https://avatars.mds.yandex.net/get-mpic/6982353/img_id5463881064721969001.png/600x800"
+      },
+      {
+        "name": "Vanish",
+        "price": 2500,
+        "url": "https://www.vanish.ru/static/f2851475bb527deee0643d53423a9ec9/55b0b/3181860_rb-vanish-aquaman-doypack-3d_pink_front_500g.png"
+      },
+      {
+        "name": "Comet",
+        "price": 530,
+        "url": "https://images.satu.kz/168840627_w640_h640_chistyaschee-sredstvo-comet.jpg"
+      },
+      {
+        "name": "York",
+        "price": 5500,
+        "url": "https://static.insales-cdn.com/images/products/1/1613/607397453/York_%D1%88%D0%B2%D0%B0%D0%B1%D1%80%D0%B0_%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BF_%D0%A1%D0%B0%D0%BB%D1%8C%D1%81%D0%B0.jpg"
+      },
+      {
+        "name": "Familia",
+        "price": 1250,
+        "url": "https://images.satu.kz/176161997_tualetnaya-bumaga-familia.jpg"
+      },
+      {
+        "name": "Head&Shoulders",
+        "price": 3000,
+        "url": "https://images.ctfassets.net/3glj7scbhnae/72OYBLuYGV0qwV3bWc3eb6/2a47ee2c7a7539d04e2b3aa73de21f37/HS_PH_Menthol_Large.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "Жили-Мыли",
+    "address": "Mangilik el 25",
+    "delivery_charge": 2,
+    "image": "https://korytov.com/wp-content/uploads/2016/02/slideZM001-2.png",
+    "hours": {
+      "Sunday": "11:00 AM - 9:00 PM",
+      "Monday": "10:00 AM - 11:00 PM",
+      "Tuesday": "10:00 AM - 11:00 PM",
+      "Wednesday": "10:00 AM - 11:00 PM",
+      "Thursday": "10:00 AM - 11:00 PM",
+      "Friday": "10:00 AM - 11:00 PM",
+      "Saturday": "9:00 AM - 9:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Fairy",
+        "price": 880,
+        "url": "https://images.satu.kz/111517596_w640_h640_sredstvo-dlya-mytya.jpg"
+      },
+      {
+        "name": "Persil",
+        "price": 5600,
+        "url": "https://object.pscloud.io/cms/cms/Photo/img_0_439_224_7_1.jpg"
+      },
+      {
+        "name": "Amway Toothpaste",
+        "price": 3150,
+        "url": "https://www.kz.amway.com/common/medias/EIA.w600.h600.1959-2-15.02.21.jpg?context=bWFzdGVyfHJvb3R8MTY1OTF8aW1hZ2UvanBlZ3xoNGYvaDcyLzk1MjI3MzY3OTE1ODIuanBnfGVmNGU3MTU0MGM3NmIyZWI0NmY2ZTQ2MWNjYWU2NGI5NmMwYzAyZmJhNzFhZjU0NmI2NTBjZDkxMmJlYzNkNGU&ccv=S0FaLU8="
+      },
+      {
+        "name": "Azelit",
+        "price": 1750,
+        "url": "https://grass-magaz.kz/wp-content/uploads/2020/05/218600-Azelit-600-ml-%D0%BB%D0%B8%D1%86%D0%BE-300x400.jpg"
+      },
+      {
+        "name": "Greenway",
+        "price": 3200,
+        "url": "https://avatars.mds.yandex.net/get-mpic/6982353/img_id5463881064721969001.png/600x800"
+      },
+      {
+        "name": "Vanish",
+        "price": 2500,
+        "url": "https://www.vanish.ru/static/f2851475bb527deee0643d53423a9ec9/55b0b/3181860_rb-vanish-aquaman-doypack-3d_pink_front_500g.png"
+      },
+      {
+        "name": "Comet",
+        "price": 530,
+        "url": "https://images.satu.kz/168840627_w640_h640_chistyaschee-sredstvo-comet.jpg"
+      },
+      {
+        "name": "York",
+        "price": 5500,
+        "url": "https://static.insales-cdn.com/images/products/1/1613/607397453/York_%D1%88%D0%B2%D0%B0%D0%B1%D1%80%D0%B0_%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BF_%D0%A1%D0%B0%D0%BB%D1%8C%D1%81%D0%B0.jpg"
+      },
+      {
+        "name": "Familia",
+        "price": 1250,
+        "url": "https://images.satu.kz/176161997_tualetnaya-bumaga-familia.jpg"
+      },
+      {
+        "name": "Head&Shoulders",
+        "price": 3000,
+        "url": "https://images.ctfassets.net/3glj7scbhnae/72OYBLuYGV0qwV3bWc3eb6/2a47ee2c7a7539d04e2b3aa73de21f37/HS_PH_Menthol_Large.jpeg"
+      }
+    ]
+  }
+]

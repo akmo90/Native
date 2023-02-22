@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.demo.foodorderanddeliveryappkotlin.app-mergeDebugResources-3:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Админ\\.gradle\\caches\\transforms-3\\11508d03d25cb4e1cba1f5544f1d062b\\transformed\\appcompat-1.6.0\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

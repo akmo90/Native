@@ -1,0 +1,112 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.demo.foodorderanddeliveryappkotlin"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <permission
+13-->[androidx.core:core:1.9.0] C:\Users\Админ\.gradle\caches\transforms-3\f75202200db48fb541bf72c50f23e569\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+14        android:name="com.demo.foodorderanddeliveryappkotlin.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.9.0] C:\Users\Админ\.gradle\caches\transforms-3\f75202200db48fb541bf72c50f23e569\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.9.0] C:\Users\Админ\.gradle\caches\transforms-3\f75202200db48fb541bf72c50f23e569\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.demo.foodorderanddeliveryappkotlin.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.9.0] C:\Users\Админ\.gradle\caches\transforms-3\f75202200db48fb541bf72c50f23e569\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.9.0] C:\Users\Админ\.gradle\caches\transforms-3\f75202200db48fb541bf72c50f23e569\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:7:5-35:19
+20        android:allowBackup="true"
+20-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:8:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.9.0] C:\Users\Админ\.gradle\caches\transforms-3\f75202200db48fb541bf72c50f23e569\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:icon="@mipmap/ic_launcher"
+24-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:9:9-43
+25        android:label="@string/app_name"
+25-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:10:9-41
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:11:9-54
+27        android:supportsRtl="true"
+27-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:12:9-35
+28        android:testOnly="true"
+29        android:theme="@style/Theme.FoodOrderAndDeliveryAppKotlin" >
+29-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:13:9-67
+30        <activity
+30-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:14:9-16:39
+31            android:name="com.demo.foodorderanddeliveryappkotlin.SuccessOrderActivity"
+31-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:15:13-49
+32            android:exported="true" />
+32-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:16:13-36
+33        <activity
+33-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:17:9-19:39
+34            android:name="com.demo.foodorderanddeliveryappkotlin.PlaceYourOrderActivity"
+34-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:18:13-51
+35            android:exported="true" />
+35-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:19:13-36
+36        <activity
+36-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:20:9-22:39
+37            android:name="com.demo.foodorderanddeliveryappkotlin.RestaurantMenuActivity"
+37-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:21:13-51
+38            android:exported="true" />
+38-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:22:13-36
+39        <activity
+39-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:23:9-31:20
+40            android:name="com.demo.foodorderanddeliveryappkotlin.SplashActivity"
+40-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:24:13-43
+41            android:exported="true" >
+41-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:25:13-36
+42            <intent-filter>
+42-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:26:13-30:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:27:17-69
+43-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:27:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:29:17-77
+45-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:29:27-74
+46            </intent-filter>
+47        </activity>
+48        <activity
+48-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:32:9-34:39
+49            android:name="com.demo.foodorderanddeliveryappkotlin.MainActivity"
+49-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:33:13-41
+50            android:exported="true" />
+50-->C:\HomeChem\HomeChem\app\src\main\AndroidManifest.xml:34:13-36
+51
+52        <provider
+52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Админ\.gradle\caches\transforms-3\bff6ab63853a3ba252683be3e0a0989f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+53            android:name="androidx.startup.InitializationProvider"
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Админ\.gradle\caches\transforms-3\bff6ab63853a3ba252683be3e0a0989f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+54            android:authorities="com.demo.foodorderanddeliveryappkotlin.androidx-startup"
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Админ\.gradle\caches\transforms-3\bff6ab63853a3ba252683be3e0a0989f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+55            android:exported="false" >
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Админ\.gradle\caches\transforms-3\bff6ab63853a3ba252683be3e0a0989f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+56            <meta-data
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Админ\.gradle\caches\transforms-3\bff6ab63853a3ba252683be3e0a0989f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+57                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Админ\.gradle\caches\transforms-3\bff6ab63853a3ba252683be3e0a0989f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+58                android:value="androidx.startup" />
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Админ\.gradle\caches\transforms-3\bff6ab63853a3ba252683be3e0a0989f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+59            <meta-data
+59-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Админ\.gradle\caches\transforms-3\6a2b6bfbef1e08d5613a88bf05bddf38\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+60                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+60-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Админ\.gradle\caches\transforms-3\6a2b6bfbef1e08d5613a88bf05bddf38\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+61                android:value="androidx.startup" />
+61-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Админ\.gradle\caches\transforms-3\6a2b6bfbef1e08d5613a88bf05bddf38\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+62        </provider>
+63    </application>
+64
+65</manifest>
